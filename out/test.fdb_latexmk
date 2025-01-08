@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1736346627.0391 "out/test.dvi" "out/test.pdf" "out/test" 1736346627.21241 0
-  "out/test.dvi" 1736346627 4012 9a75a9b5cbc4f2226276b7672d61a565 "latex"
+["dvipdf"] 1736347611.37379 "out/test.dvi" "out/test.pdf" "out/test" 1736347611.73803 0
+  "out/test.dvi" 1736347611 4024 3e09385ec028f1c2a572ae33a714af19 "latex"
   (generated)
   "out/test.pdf"
   (rewritten before read)
-["latex"] 1736346626.86085 "c:/Users/run/GlassProject/test.tex" "out/test.dvi" "test" 1736346627.21145 0
-  "c:/Users/run/GlassProject/test.tex" 1736346626 2087 2e084568ea946d0eb8faef9688dd5197 ""
+["latex"] 1736347610.85564 "c:/Users/run/GlassProject/test.tex" "out/test.dvi" "test" 1736347611.73724 0
+  "c:/Users/run/GlassProject/test.tex" 1736347608 2093 680cbde7b5ef4bf262910fb5c55b47f8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1736346070 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1736346070 1196 1be730212205a270378fba11a44765dc ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1736346070 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
@@ -30,8 +30,8 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1736345603 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "c:/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1736346160 2015220 fe77eb2b859284f7300fb435cad50f54 ""
   "c:/texlive/2024/texmf.cnf" 1736345811 801 3c495eb8f23f145306d09b4ffa3d382c ""
-  "out/test.aux" 1736346626 456 35326a93b0375f205bc05be096569101 "latex"
-  "test.tex" 1736346626 2087 2e084568ea946d0eb8faef9688dd5197 ""
+  "out/test.aux" 1736347611 456 35326a93b0375f205bc05be096569101 "latex"
+  "test.tex" 1736347608 2093 680cbde7b5ef4bf262910fb5c55b47f8 ""
   (generated)
   "out/test.aux"
   "out/test.dvi"
